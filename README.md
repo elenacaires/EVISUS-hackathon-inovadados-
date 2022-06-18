@@ -21,10 +21,11 @@ Canal do profissional de saúde
 - Protocolos e diretrizes: Protocolos clínicos e diretrizes terapêuticas, Diretrizes para diagnóstico e tratamento, Diretrizes nacionais, Linhas de cuidado
 - Mapeamento clínico-epidemiológico -> estratificadores: sistema (SIM, SINAN, SIH), geográficos, temporais, agravos
 - Atualização técnico-científica: estratificadores: fonte (evidências Pesquisa Saúde, iniciativas específicas...), categoria, palavras-chave
-      
  
 O fluxo da aplicação já foi estabelecido de ponta-a-ponta, e algumas das funcionalidades propostas desenvolvidas (no protótipo) e testadas.
   
 Foi criado um dataset exemplificativo (incompleto e não necessariamente fidedigno à estrutura pretendida) para fins de prototipação, contando com dados provenientes dos 3 eixos de alimentação da aplicação (Pesquisa Saúde, documentos MS e DATASUS).
   
 Todas as etapas de desenvolvimento até então foram implementadas em Python.
+
+Link para o protótipo (no momento, fora do ar): https://t.me/prototipoEVISUSbot
